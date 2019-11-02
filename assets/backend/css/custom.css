@@ -1,0 +1,25 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+.row{
+	margin-top: 80px;
+}
+.custom_input{
+	border: 1px solid #ababab !important;
+}
+.custom_form{
+	margin-top: 50px;
+	padding: 20px;
+	box-shadow: 5px 5px 20px;
+	border-radius: 10px;
+}
+
+.flash_message{
+	color: red !important;
+}
+
+	
